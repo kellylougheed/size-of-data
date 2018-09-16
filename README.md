@@ -19,3 +19,16 @@ If a single bit were about the size of a single marble filled with water, how mu
 * [Piktochart](https://piktochart.com/)
 * Adobe PhotoShop
 * Any other infographic maker you are familiar with!
+
+### Assessment
+
+Your work on this problem will be evaluated along three axes primarily.
+
+* Scope
+To what extent does your submission align with the requirements of the specification?
+
+* Correctness
+To what extent is your submission correct and free of factual errors?
+
+* Style
+To what extent is your submission readable (i.e., thoughtfully organized, coherent, words properly spelled)?
